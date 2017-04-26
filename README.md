@@ -13,7 +13,6 @@ Im using:
 
 *Game Steps:*
 - [x] Physics engine & basic collision(Rect-Circle)
-- [ ] Angle and rotation
 - [x] Self-generated levels 
 - [ ] Adding the GenetiAlgorithm 
 - [ ] Create the neuralnetwork 
