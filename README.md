@@ -5,7 +5,7 @@ Im using:
 
 >Python
 
->Some very special help from [Sentdex](https://github.com/Sentdex) youtube channel.
+>Some very special help from [Sentdex](https://github.com/Sentdex) python tutorials.
 
 *-Later-*
 
