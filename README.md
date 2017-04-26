@@ -15,8 +15,8 @@ Im using:
 - [ ] Create the neuralnetwork 
 
 [Collision point detector](https://yal.cc/rectangle-circle-intersection-test/)
-'''
+```
 DeltaX = CircleX - Max(RectX, Min(CircleX, RectX + RectWidth));
 DeltaY = CircleY - Max(RectY, Min(CircleY, RectY + RectHeight));
 return (DeltaX * DeltaX + DeltaY * DeltaY) < (CircleRadius * CircleRadius);
-'''
+```
