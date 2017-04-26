@@ -2,9 +2,13 @@
 *Later i want to use genetic algorithm  combined to a neural network to train an AI on my physics based game, but first i need to create one in order to understand all the math and physics stuff.*
 Im using:
 >Processing
+
 >Python
+
 >Some very special help from [Sentdex](https://github.com/Sentdex) youtube channel.
+
 *-Later-*
+
 >TensorFlow
 
 *Game Steps:*
