@@ -18,6 +18,7 @@ Im using:
 - [ ] Adding the GenetiAlgorithm 
 - [ ] Create the neuralnetwork 
 
+![cattura](https://cloud.githubusercontent.com/assets/22122998/25442732/1aa7a52a-2aa6-11e7-9d36-a20247ac0232.PNG)
 [Collision point detector](https://yal.cc/rectangle-circle-intersection-test/)
 ```
 DeltaX = CircleX - Max(RectX, Min(CircleX, RectX + RectWidth));
