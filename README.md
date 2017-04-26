@@ -14,8 +14,8 @@ Im using:
 *Game Steps:*
 - [x] Physics engine & basic collision(Rect-Circle)
 - [x] Self-generated levels 
-- [ ] Adding the GenetiAlgorithm 
-- [ ] Create the neuralnetwork 
+- [ ] Adding the Genetic Algorithm 
+- [ ] Create the Neural Network 
 
 ![cattura](https://cloud.githubusercontent.com/assets/22122998/25442732/1aa7a52a-2aa6-11e7-9d36-a20247ac0232.PNG)
 [Collision point detector](https://yal.cc/rectangle-circle-intersection-test/)
