@@ -1,16 +1,8 @@
+
 from random import randint,random #random
 from operator import add #Per usare add (perazione su lambda)->reduce((lambda x, y: x + y), [1, 2, 3, 4])
 import functools #Per usare reduce (functools.reduce)
 #Definisco degli individui (membri della popolazione)
-popolo = 100
-gpersona =100
-minimo = 0
-bersaglio=400
-graziati = 0.05
-mutati = 0.02
-restano = 0.5
-massimo = bersaglio
-Popolazione = []
 
                         #PRE EVOLUTION (Setting up the population)
 ############################################################################
@@ -85,7 +77,7 @@ def evoluzione(popolazione,bersaglio,restano,graziati,mutati):
 
 
 ############################################################################
-
+'''
 ##FROM HERE ONLY PRINT
 Popolazione = printpop(popolo,gpersona,minimo,massimo)
 generazione=1
@@ -107,3 +99,4 @@ print("Generazione: ",generazione)
 print("Individuo cazzuto: ",prescelto)
 print("Grado: ",grado(Popolazione,bersaglio))
 
+'''
